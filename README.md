@@ -12,7 +12,7 @@
 
 ### 📱 Contact:
 - Phone: +55 41 9 9928-1861
-- Email: [Pedromdpp@live.com](mailto:Pedromdpp@live.com)
+- Email: [pedromdpp@live.com](mailto:pedromdpp@live.com)
 
 ---
 
