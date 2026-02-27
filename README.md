@@ -7,7 +7,7 @@
 
 ---
 
-👨🏻‍💻 **Sobre mim**
+👨🏻‍💻 **Sobre mim** <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 ✨ FullStack Developer com foco em **React**, **Vue.js** e **Node.js** <br>
 📍 Curitiba, PR, Brasil <br>
@@ -72,7 +72,6 @@ Tools e Plataformas:
   🏢 **Web Developer Jr** — TOTVS Curitiba *(Mai 2019 – Jul 2021)*<br>
   &nbsp;&nbsp;&nbsp;&nbsp;• Desenvolvimento web e de processos com TOTVS Fluig<br>
 </details>
-
 
 <details>
   <summary><b>📚 Projetos em Destaque</b></summary><br>
