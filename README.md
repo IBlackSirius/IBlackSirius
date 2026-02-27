@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/pedro-maurilio">LinkedIn</a> •
-  <a href="mailto:pedromdpp@live.com">E-mail</a>
+  <a href="/cdn-cgi/l/email-protection#deaebbbaacb1b3baaeae9eb2b7a8bbf0bdb1b3">E-mail</a>
 </p>
 
 ---
@@ -13,7 +13,8 @@
 📍 Curitiba, PR, Brasil <br>
 💼 Disponível para contratação **CLT** ou **PJ** <br>
 💬 Pode me perguntar sobre **JavaScript, TypeScript, Vue.js, React e Node.js** <br>
-📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/pedro-maurilio) ou [pedromdpp@live.com](mailto:pedromdpp@live.com) <br>
+🚀 **Aberto a novas oportunidades** CLT ou PJ — vamos conversar! <br>
+📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/pedro-maurilio) ou [<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="adddc8c9dfc2c0c9ddddedc1c4dbc883cec2c0">[email&#160;protected]</a>](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="bfcfdadbcdd0d2dbcfcfffd3d6c9da91dcd0d2">[email&#160;protected]</a>) <br>
 
 ---
 
@@ -48,6 +49,14 @@ Tools e Plataformas:
 <details>
   <summary><b>💼 Experiência Profissional</b></summary><br>
 
+  🏢 **Tech Lead → Dev Pleno** — Berry Consultoria *(Nov 2024 – Fev 2026)*<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• Arquitetei e implementei sistema de assinaturas recorrentes processando **R$ 20M anuais** via integração Stripe<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• Liderei equipes de desenvolvimento definindo arquiteturas escaláveis, padrões de código e estratégias de implementação<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• Mentoria e desenvolvimento de desenvolvedores, garantindo crescimento técnico e alinhamento com objetivos do projeto<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• Interface entre time técnico e stakeholders, traduzindo necessidades de negócio em soluções técnicas viáveis<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• Tomada de decisões arquiteturais críticas balanceando performance, escalabilidade e prazo de entrega<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;• Stack: **React, Node.js, TypeScript, Docker, AWS, ArangoDB, Vite, Tailwind**<br><br>
+
   🏢 **BPMN Developer** — ICI Instituto das Cidades Inteligentes *(Jun 2023 – Abr 2024)*<br>
   &nbsp;&nbsp;&nbsp;&nbsp;• Desenvolvimento de processos BPMN e manutenção no Sydle One<br>
   &nbsp;&nbsp;&nbsp;&nbsp;• Suporte ao cliente (SD) | Stack: **Sydle One, JavaScript**<br><br>
@@ -64,14 +73,6 @@ Tools e Plataformas:
   &nbsp;&nbsp;&nbsp;&nbsp;• Desenvolvimento web e de processos com TOTVS Fluig<br>
 </details>
 
-<details>
-  <summary><b>⚙️ GitHub Analytics</b></summary><br>
-
-  <a href="https://github.com/IBlackSirius">
-    <img style="height:200px; width:55%;" src="https://github-readme-stats.vercel.app/api?username=IBlackSirius&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Pedro GitHub Stats" />
-    <img style="height:200px; width:40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBlackSirius&layout=compact&theme=github_dark" alt="Pedro Top Languages" />
-  </a>
-</details>
 
 <details>
   <summary><b>📚 Projetos em Destaque</b></summary><br>
@@ -89,12 +90,4 @@ Tools e Plataformas:
   <a href="https://linkedin.com/in/pedro-maurilio">
     <img src="https://img.shields.io/badge/LinkedIn-pedro--maurilio-0077B5?logo=linkedin&logoColor=white&style=flat">
   </a>
-  <a href="mailto:pedromdpp@live.com">
-    <img src="https://img.shields.io/badge/Email-pedromdpp%40live.com-D14836?logo=gmail&logoColor=white&style=flat">
-  </a>
-  <img src="https://img.shields.io/badge/Status-Disponível%20CLT%20%7C%20PJ-brightgreen?style=flat">
-</p>
-
-<p align="center">
-  💡 Gostou de algum projeto? Deixa uma ⭐ nos repositórios!
-</p>
+  <a href="/cdn-cgi/l/email-protection#9cecf9f8eef3f1f8ececdcf0f5eaf9b2fff3f1
