@@ -12,7 +12,7 @@
 ✨ FullStack Developer com foco em **React**, **Vue.js** e **Node.js** <br>
 📍 Curitiba, PR, Brasil <br>
 💼 Disponível para contratação **CLT** ou **PJ** <br>
-💬 Pode me perguntar sobre **JavaScript, TypeScript, Vue.js, React e Node.js** <br>
+💬 **JavaScript, TypeScript, Vue.js, React e Node.js** <br>
 🚀 **Aberto a novas oportunidades** CLT ou PJ — vamos conversar! <br>
 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/pedro-maurilio) ou [Email](pedromdpp@live.com)
 
